@@ -1,2 +1,2 @@
-# portal-theme
-portal-theme module for portal
+# theme
+Kocaeli university open source lab yii2 thememodule
